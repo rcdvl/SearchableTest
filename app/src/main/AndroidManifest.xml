@@ -20,6 +20,10 @@
             </intent-filter>
         </activity>
 
+        <provider android:name="com.activeandroid.content.ContentProvider"
+                  android:authorities="com.rcdvl.example.searchabletest"
+                  android:exported="false"/>
+
         <meta-data android:name="AA_DB_NAME"
                    android:value="@string/searchable_test_db_name"/>
         <meta-data android:name="AA_DB_VERSION"
