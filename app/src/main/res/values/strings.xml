@@ -2,4 +2,9 @@
     <string name="app_name">SearchableTest</string>
     <string name="action_settings">Settings</string>
     <string name="searchable_test_db_name">SearchableTest.db</string>
+    <string name="search_label">SearchableTest</string>
+    <string name="search_hint">Search books</string>
+    <string name="action_search">Search</string>
+    <string name="search_query_text">You searched for\u0020</string>
+    <string name="search_query_clear">Clear search</string>
 </resources>
